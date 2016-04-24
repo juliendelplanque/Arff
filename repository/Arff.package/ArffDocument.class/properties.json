@@ -1,0 +1,16 @@
+{
+	"category" : "Arff-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/24/2016 23:28",
+	"instvars" : [
+		"relation",
+		"attributes",
+		"data" ],
+	"name" : "ArffDocument",
+	"pools" : [
+		 ],
+	"super" : "ArffNode",
+	"type" : "normal" }

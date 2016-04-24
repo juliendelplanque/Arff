@@ -1,0 +1,1 @@
+I am an abstract node that only define #accept message.

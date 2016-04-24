@@ -1,0 +1,3 @@
+visiting
+visitArffDateAttribute: anArffDateAttribute
+	^ self subclassResponsibility

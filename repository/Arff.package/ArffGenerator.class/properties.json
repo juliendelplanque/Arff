@@ -1,0 +1,14 @@
+{
+	"category" : "Arff-Visitors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/24/2016 23:29",
+	"instvars" : [
+		"stream" ],
+	"name" : "ArffGenerator",
+	"pools" : [
+		 ],
+	"super" : "ArffVisitor",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+visiting
+visitArffDocument: anArffDocument
+	self subclassResponsibility

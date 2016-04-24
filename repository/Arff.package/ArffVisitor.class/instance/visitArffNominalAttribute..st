@@ -1,0 +1,3 @@
+visiting
+visitArffNominalAttribute: anArffNominalAttribute
+	^ self subclassResponsibility

@@ -1,0 +1,1 @@
+An ArffGeneratorTest is a test class for testing the behavior of ArffGenerator

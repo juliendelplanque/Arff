@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JulienDelplanque 4/24/2016 22:39",
+		"testVisitArffData" : "JulienDelplanque 4/24/2016 22:49",
+		"testVisitArffDateAttribute" : "JulienDelplanque 4/24/2016 22:52",
+		"testVisitArffDocument" : "JulienDelplanque 4/24/2016 23:22",
+		"testVisitArffNominalAttribute" : "JulienDelplanque 4/24/2016 22:57",
+		"testVisitArffNumericAttribute" : "JulienDelplanque 4/24/2016 22:59",
+		"testVisitArffRelation" : "JulienDelplanque 4/24/2016 23:00",
+		"testVisitArffStringAttribute" : "JulienDelplanque 4/24/2016 23:01" } }

@@ -1,0 +1,3 @@
+visiting
+visitArffStringAttribute: anArffStringAttribute
+	^ self subclassResponsibility

@@ -1,0 +1,3 @@
+visiting
+visitArffRelation: anArffRelation
+	self subclassResponsibility

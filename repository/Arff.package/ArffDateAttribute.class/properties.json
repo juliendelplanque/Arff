@@ -1,0 +1,14 @@
+{
+	"category" : "Arff-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/24/2016 23:24",
+	"instvars" : [
+		"format" ],
+	"name" : "ArffDateAttribute",
+	"pools" : [
+		 ],
+	"super" : "ArffAttribute",
+	"type" : "normal" }

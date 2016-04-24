@@ -1,0 +1,1 @@
+I am an arff document ie I represent an entire arff file.
