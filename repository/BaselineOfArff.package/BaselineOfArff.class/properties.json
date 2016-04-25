@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfArff",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfArff",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
