@@ -1,0 +1,3 @@
+*Arff
+isUnknownAttribute
+	^ false

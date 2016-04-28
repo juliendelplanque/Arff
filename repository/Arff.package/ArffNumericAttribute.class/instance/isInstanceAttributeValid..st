@@ -1,3 +1,4 @@
 testing
 isInstanceAttributeValid: anInstanceAttribute
-	^ anInstanceAttribute isNumber
+	^ (super isInstanceAttributeValid: anInstanceAttribute)
+			or: [ anInstanceAttribute isNumber ]

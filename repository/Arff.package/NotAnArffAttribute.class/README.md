@@ -1,0 +1,1 @@
+I am raised when the symbol to which #asArffAttribute has been sent can not be represented as an ArffAttribute.

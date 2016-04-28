@@ -1,3 +1,5 @@
 testing
 isInstanceAttributeValid: anInstanceAttribute
-	^ anInstanceAttribute isString or: [ anInstanceAttribute class = DateAndTime ]
+	^ (super isInstanceAttributeValid: anInstanceAttribute)
+			or: [ anInstanceAttribute isString
+				or: [ anInstanceAttribute class = DateAndTime ] ]
