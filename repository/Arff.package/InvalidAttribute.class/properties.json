@@ -1,0 +1,14 @@
+{
+	"category" : "Arff-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 4/28/2016 10:33",
+	"instvars" : [
+		 ],
+	"name" : "InvalidAttribute",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

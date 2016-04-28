@@ -1,0 +1,3 @@
+testing
+isInstanceAttributeValid: anInstanceAttribute
+	^ anInstanceAttribute isNumber

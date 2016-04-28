@@ -1,0 +1,1 @@
+I am raised when an inexistant formatter is used.

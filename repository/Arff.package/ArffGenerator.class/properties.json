@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 4/24/2016 23:29",
 	"instvars" : [
-		"stream" ],
+		"stream",
+		"stack" ],
 	"name" : "ArffGenerator",
 	"pools" : [
 		 ],

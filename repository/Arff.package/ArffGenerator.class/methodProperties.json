@@ -2,11 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "JulienDelplanque 4/24/2016 22:14",
+		"initialize" : "JulienDelplanque 4/28/2016 09:53",
+		"stack" : "JulienDelplanque 4/28/2016 09:53",
 		"stream" : "JulienDelplanque 4/24/2016 22:40",
-		"visitArffData:" : "JulienDelplanque 4/24/2016 22:50",
-		"visitArffDateAttribute:" : "JulienDelplanque 4/24/2016 22:52",
-		"visitArffDocument:" : "JulienDelplanque 4/24/2016 23:10",
+		"visitArffData:" : "JulienDelplanque 4/28/2016 10:32",
+		"visitArffDateAttribute:" : "JulienDelplanque 4/28/2016 10:00",
+		"visitArffDocument:" : "JulienDelplanque 4/28/2016 09:55",
 		"visitArffNominalAttribute:" : "JulienDelplanque 4/24/2016 22:57",
 		"visitArffNumericAttribute:" : "JulienDelplanque 4/24/2016 22:20",
 		"visitArffRelation:" : "JulienDelplanque 4/24/2016 22:25",

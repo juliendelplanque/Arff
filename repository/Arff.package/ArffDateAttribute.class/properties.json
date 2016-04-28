@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 4/24/2016 23:24",
 	"instvars" : [
-		"format" ],
+		"format",
+		"formatter" ],
 	"name" : "ArffDateAttribute",
 	"pools" : [
 		 ],

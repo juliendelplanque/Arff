@@ -3,7 +3,7 @@
 		 },
 	"instance" : {
 		"setUp" : "JulienDelplanque 4/24/2016 22:39",
-		"testVisitArffData" : "JulienDelplanque 4/24/2016 22:49",
+		"testVisitArffData" : "JulienDelplanque 4/28/2016 10:39",
 		"testVisitArffDateAttribute" : "JulienDelplanque 4/24/2016 22:52",
 		"testVisitArffDocument" : "JulienDelplanque 4/24/2016 23:22",
 		"testVisitArffNominalAttribute" : "JulienDelplanque 4/24/2016 22:57",
