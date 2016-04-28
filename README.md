@@ -59,7 +59,6 @@ Generates the arff string:
 
 ## TODO
 - Add messages in ArffDocument to make the DSL simpler.
-- Manage real Date object in ArffDateAttribute (for now string are used).
 - Add an object to represent '?' (missing data) for now, the character $? is used.
 - Add possibility to add comment in an ArffDocument.
 
