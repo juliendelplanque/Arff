@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfArff",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfArff",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
