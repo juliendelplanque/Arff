@@ -10,10 +10,11 @@
 		"addNominalAttribute:specification:" : "JulienDelplanque 4/24/2016 23:21",
 		"addNumericAttribute:" : "JulienDelplanque 4/24/2016 23:19",
 		"addStringAttribute:" : "JulienDelplanque 4/24/2016 23:19",
-		"asString" : "JulienDelplanque 4/24/2016 23:30",
 		"attributes" : "JulienDelplanque 4/24/2016 23:04",
 		"attributes:" : "JulienDelplanque 4/28/2016 09:57",
 		"data" : "JulienDelplanque 4/24/2016 23:04",
 		"initialize" : "JulienDelplanque 4/24/2016 23:11",
+		"printOn:" : "JulienDelplanque 4/30/2016 12:34",
 		"relation" : "JulienDelplanque 4/24/2016 23:04",
-		"relation:" : "JulienDelplanque 4/24/2016 23:17" } }
+		"relation:" : "JulienDelplanque 4/24/2016 23:17",
+		"writeInFile:" : "JulienDelplanque 4/30/2016 12:36" } }
