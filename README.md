@@ -7,6 +7,7 @@ This project implements a representation of weka's arff concepts as objects in P
 See [Arff file spec](https://weka.wikispaces.com/ARFF) to learn more about this format.
 
 ## Install
+You can install this project using the Catalog Browser or by evaluating the following code in a fresh image:
 ~~~
 Metacello new
     baseline: 'Arff';
